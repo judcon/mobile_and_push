@@ -1,0 +1,9 @@
+== Instructions 
+
+=== Mobile Clients with @joshuawilson, @sebastienblanc, and @edewit
+
+==== Agenda
+* Overview of the UI of the Contacts Mobile Quickstart Application
+** Run through the application
+** Demo the app
+** Explain the HTML and some of the JS
