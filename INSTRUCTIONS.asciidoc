@@ -1,9 +1,34 @@
 == Instructions 
 
-=== Mobile Clients with @joshuawilson, @sebastienblanc, and @edewit
+=== Session One: Introduction to the Game Plan
+Joshua Wilson, Sebastien Blanc, and Erik Jan de Wit
 
 ==== Agenda
 * Overview of the UI of the Contacts Mobile Quickstart Application
-** Run through the application
+** URL to its release (tag) goes here (possibly merged here) << Issue #1
+** Run through the application, based on jQuery Mobile Web
 ** Demo the app
 ** Explain the HTML and some of the JS
+* Building from the above, now:
+** Let's make a native mobile app
+** Implement using Cordova and some additional tooling in JBoss Developer Studio
+** Showcase deployment on physical devices
+** Implement Push Notifications
+
+=== Session Two: Implementing the Backend and Securing the Webapp
+Joshua Wilson and Shane Bryzak
+
+==== Agenda
+
+* Overview of PicketLink
+* Explanation of PicketLink usage for Security in the Quickstart
+* Step through the REST endpoints and explain how they are secured
+* Introduce other elements of interest as requested: JPA, Service Layer, etc
+
+=== Session Three: Mobile Push with Aerogear
+Matthias Wessendorf
+
+* Background on Push Notifications
+* Introduce the Aerogear UnifiedPush Server
+* Introduce demo: Aerodoc
+** URL to its release (tag) goes here << Issue #2
