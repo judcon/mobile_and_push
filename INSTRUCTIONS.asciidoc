@@ -1,5 +1,9 @@
 == Instructions 
 
+The following instructions lay out the general agenda for the 
+expository sessions and contain linked documentation and code repositories for
+users to follow along or participate at their own pace at home.
+
 === Session One: Introduction to the Game Plan
 Joshua Wilson, Sebastien Blanc, and Erik Jan de Wit
 
@@ -32,3 +36,28 @@ Matthias Wessendorf
 * Introduce the Aerogear UnifiedPush Server
 * Introduce demo: Aerodoc
 ** URL to its release (tag) goes here << Issue #2
+* Demonstration
+** Start from scratch
+** Register a device w/ the push server
+** Send a notification out of the push server UI
+* Revisit the Contacts Mobile Quickstart Application
+** Show usage of the Java sender library to enable push messaging out of the contacts backend
+* Advanced Features with UnifiedPush Server
+** Geo-based eventing
+
+==== Session Four: Bonus Track - Keycloak 
+Bill Burke
+
+When dealing with security, us web developers often have to dive into the
+details of bloated security specifications and APIs to solve issues like SSO,
+social login, CORS, and OAuth and OpenID Connect integration. We have to secure 
+different platforms like pure HTML5/Javascript, Java, Python, and Node.js. 
+Anything user-facing we have to write and integrate ourselves. Its boring. 
+Its tedious. Its repetitious. Its uninteresting. It shouldn't have to be that way. 
+Security can be fun if you have the right tools! This presentation talks about various 
+security issues your browser applications and RESTful web services will need to solve
+and how to solve them using a tool like the http://keycloak.jboss.org/[Keycloak] open source server project.
+
+==== Hackfest
+Sebastien Blanc and Jason Porter
+
