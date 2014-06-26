@@ -1,5 +1,4 @@
-JUDCon 2014:Boston - One-Day Hackathon with Mobile and Push 
-===============
+== JUDCon 2014:Boston - One-Day Hackathon with Mobile and Push 
 
 Join us for a summer daytime session filled with code, micro-presentations, and group hacking!  We've got one goal for the day: teach you how to go from a blank repository to a working mobile application by mid-afternoon.  Project Leads from the JBoss mobile and security teams will be in-house and leading the charge with downloadable quickstarts to bootstrap your day.
 
