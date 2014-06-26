@@ -9,7 +9,7 @@ The day will be loosely-organized to suit your needs, but generally-speaking it 
 |=======
 | 9:15a - 9:55a | Quickstart Introduction: Mobile with AeroGear
 | 10:00a - 10:40a | Quickstart Introduction: Security﻿
-| 10:45a - 11:25a | Project ﻿Introduction: OpenShift ﻿
+| 10:45a - 11:25a | Project ﻿Introduction: UnifiedPush Server on OpenShift ﻿
 | 11:30a - 12:15p | Project ﻿Introduction: KeyCloak﻿
 | 12:15p - 12:45p | Lunch (grab and go, as brought in from a local North End restaurant)﻿
 | 12:45p - 15:00p | HackFest﻿
