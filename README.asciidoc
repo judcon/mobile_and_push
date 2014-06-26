@@ -23,18 +23,16 @@ Technologies we'll be covering include:
 
 We'll supply lunch, coding juice (beer), space, Wifi, and presentation materials; bring your laptop and come ready to build! 
 
-Registration
-Registration is handled via EventBrite:
+=== Registration
+Registration is handled via http://bit.ly/judconboston2014[EventBrite]
 
-
-Event Registration Online for JBoss User's and Developer's Conference | Boston 2014 | From Zero to Mobile powered by Eventbrite
-Location
-Improv Asylum
-216 Hanover St
-Boston, MA 02113
+=== Location
+Improv Asylum +
+216 Hanover St +
+Boston, MA 02113 +
 Saturday, June 28, 2014 from 9:00 AM to 3:00 PM (EDT)
 
-What's a JUDCon?
+=== What's a JUDCon?
 The JBoss Users and Developers Conferences are developer gatherings held around the globe to give JBoss users the chance to talk to and collaborate with leaders in the JBoss Community, and to allow the project leads and engineers to learn from and collaborate with end users.
 
 The JBoss Core Developers, along with the open source community, create and support the projects that drive innovation and help lead development in standards bodies like the Java Community Process, the Apache Software Foundation, OASIS, W3C and other open standards organizations.
