@@ -1,0 +1,45 @@
+JUDCon 2014:Boston - One-Day Hackathon with Mobile and Push 
+===============
+
+Join us for a summer daytime session filled with code, micro-presentations, and group hacking!  We've got one goal for the day: teach you how to go from a blank repository to a working mobile application by mid-afternoon.  Project Leads from the JBoss mobile and security teams will be in-house and leading the charge with downloadable quickstarts to bootstrap your day.
+
+We'll guide you in building a new mobile app, securing it, authenticating with OAuth 2.0, and sending/receiving push notifications. Prizes will be awarded for the best implementation at the end of the hackathon.  
+
+The day will be loosely-organized to suit your needs, but generally-speaking it will look a bit like:
+
+|=======
+| 9:15a - 9:55a | Quickstart Introduction: Mobile with AeroGear
+| 10:00a - 10:40a | Quickstart Introduction: Security﻿
+| 10:45a - 11:25a | Project ﻿Introduction: OpenShift ﻿
+| 11:30a - 12:15p | Project ﻿Introduction: KeyCloak﻿
+| 12:15p - 12:45p | Lunch (grab and go, as brought in from a local North End restaurant)﻿
+| 12:45p - 15:00p | HackFest﻿
+|=======
+
+Technologies we'll be covering include:
+
+* Aerogear Unified Push Server
+* Keycloak - Security 
+* Apache Cordova
+
+We'll supply lunch, coding juice (beer), space, Wifi, and presentation materials; bring your laptop and come ready to build! 
+
+Registration
+Registration is handled via EventBrite:
+
+
+Event Registration Online for JBoss User's and Developer's Conference | Boston 2014 | From Zero to Mobile powered by Eventbrite
+Location
+Improv Asylum
+216 Hanover St
+Boston, MA 02113
+Saturday, June 28, 2014 from 9:00 AM to 3:00 PM (EDT)
+
+What's a JUDCon?
+The JBoss Users and Developers Conferences are developer gatherings held around the globe to give JBoss users the chance to talk to and collaborate with leaders in the JBoss Community, and to allow the project leads and engineers to learn from and collaborate with end users.
+
+The JBoss Core Developers, along with the open source community, create and support the projects that drive innovation and help lead development in standards bodies like the Java Community Process, the Apache Software Foundation, OASIS, W3C and other open standards organizations.
+
+JBoss is the leader in cutting edge open source technology for developers World-Wide because JBoss gives developers choice, and helps developer be more productive and get things done.
+
+Our broad product portfolio is substantially based on the Java EE platform, but contains platform-neutral technologies such as Project Arquillian, Project Snowdrop for Spring integration, and projects that give developers JVM-hosted languages including Scala, Clojure, Ruby and Ceylon which are able to seamlessly tap into the power of the Java EE platform.
