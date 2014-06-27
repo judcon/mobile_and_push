@@ -35,7 +35,7 @@ Matthias Wessendorf
 * Background on Push Notifications
 * Introduce the Aerogear UnifiedPush Server
 * Introduce demo: Aerodoc
-** URL to its release (tag) goes here << Issue #2
+** https://github.com/aerogear/aerogear-aerodoc-backend
 * Demonstration
 ** Start from scratch
 ** Register a device w/ the push server
