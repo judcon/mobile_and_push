@@ -60,5 +60,16 @@ security issues your browser applications and RESTful web services will need to 
 and how to solve them using a tool like the http://keycloak.jboss.org/[Keycloak] open source server project.
 
 ==== Hackfest
-Sebastien Blanc and Jason Porter
+
+https://github.com/aerogear/aerogear-push-quickstarts/tree/judcon-boston-2014
+
+. Fork the repository
+. Use the PicketLink secured server
+. Use the README for instructions
+. Pick a client from the cordova/jqm directory
+. Use the README for building the client
+. Use http://quickstarts-edewit.rhcloud.com for the quickstarts backend
+. https://www.openshift.com/[Sign up for OpenShift] to create a push server
+.. Use the AeroGear UnifiedPush Instance cartridge
+.. Use the generated UUIDs from your UPS instance
 
