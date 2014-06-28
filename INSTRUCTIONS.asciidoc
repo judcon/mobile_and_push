@@ -68,7 +68,7 @@ https://github.com/aerogear/aerogear-push-quickstarts/tree/judcon-boston-2014
 . Use the README for instructions
 . Pick a client from the cordova/jqm directory
 . Use the README for building the client
-. Use http://quickstarts-edewit.rhcloud.com for the quickstarts backend
+. Use https://quickstarts-edewit.rhcloud.com for the quickstarts backend
 . https://www.openshift.com/[Sign up for OpenShift] to create a push server
 .. Use the AeroGear UnifiedPush Instance cartridge
 .. Use the generated UUIDs from your UPS instance
